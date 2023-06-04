@@ -1,3 +1,5 @@
-<a href="https://feedflocom"><img src="https://uploads-ssl.webflow.com/611543f9ad5394184b5605aa/614a037a1a18547552dd8364_FeedFlo%20colour-p-500.png" width="350"/></a>
+# FeedFlo Public Organization Profile
 
-[Learn more about the future of smart barns here](https://www.feedflo.com/)
+Changes here are public and visible to everyone on GitHub.
+
+Making changes to [./profile/README.md](./profile/README.md) will make changes to the [FeedFlo Github Organization public profile](https://github.com/FeedFlo)
